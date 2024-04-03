@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+    border: 1px solid gray;
+    font-size: 20px;
+    padding: 12px;
+    align-items: center;
+    display: flex;
+}
+ul{
+    padding-left: 0;
+}
